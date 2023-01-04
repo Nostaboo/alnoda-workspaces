@@ -16,16 +16,16 @@ favicon: nodejs-circle.svg
 
 # Homepage UI appearance
 styles:
-  font: Open Sans # chose any from https://fonts.google.com/
+  font: "https://fonts.googleapis.com/css2?family=Unica+One&display=swap"
   colors:
     light:
-      primary: "#3E863D"
-      accent: "#C53635"
+      primary: "#235e86"
+      accent: "#a372c5"
       title: "#233056"
       text: "#233056"
     dark:
-      primary: "#3E863D"
-      accent: "#3E863D"
+      primary: "#40428f"
+      accent: "#40428f"
       background: "#233056"
       title: "#FFFFFF"
       text: "#FFFFFF"
